@@ -1,0 +1,68 @@
+[
+ {
+   "Kecamatan": "Lumbir",
+   "Kebun": 1859,
+   "Huma": 0,
+   "Perkebunan": 262,
+   "Hutan Rakyat": 3132,
+   "Padang Rumput": 0,
+   "Sementara Tidak Diusahakan": 0,
+   "Lainnya": 5,
+   "Jumlah": 5.258
+ },
+ {
+   "Kecamatan": "Wangon",
+   "Kebun": 2.481,
+   "Huma": 0,
+   "Perkebunan": 288,
+   "Hutan Rakyat": 218,
+   "Padang Rumput": 0,
+   "Sementara Tidak Diusahakan": 0,
+   "Lainnya": 447,
+   "Jumlah": 3434
+ },
+ {
+   "Kecamatan": "Jatilawang",
+   "Kebun": 277,
+   "Huma": 0,
+   "Perkebunan": 177,
+   "Hutan Rakyat": 1381,
+   "Padang Rumput": 15,
+   "Sementara Tidak Diusahakan": 0,
+   "Lainnya": 441,
+   "Jumlah": 2291
+ },
+ {
+   "Kecamatan": "Rawalo",
+   "Kebun": 911,
+   "Huma": 0,
+   "Perkebunan": 773,
+   "Hutan Rakyat": 50,
+   "Padang Rumput": 0,
+   "Sementara Tidak Diusahakan": 0,
+   "Lainnya": 15,
+   "Jumlah": 1749
+ },
+ {
+   "Kecamatan": "Kebasen",
+   "Kebun": 1041,
+   "Huma": 0,
+   "Perkebunan": 565,
+   "Hutan Rakyat": 0,
+   "Padang Rumput": 0,
+   "Sementara Tidak Diusahakan": 0,
+   "Lainnya": 777,
+   "Jumlah": 2383
+ },
+ {
+   "Kecamatan": "Kemranjen",
+   "Kebun": 1351,
+   "Huma": 0,
+   "Perkebunan": 220,
+   "Hutan Rakyat": 1351,
+   "Padang Rumput": 0,
+   "Sementara Tidak Diusahakan": 0,
+   "Lainnya": 485,
+   "Jumlah": 3407
+ }
+]
